@@ -1,0 +1,1 @@
+https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/callback?case=inert-stored-only
