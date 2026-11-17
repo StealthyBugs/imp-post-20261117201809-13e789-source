@@ -1,0 +1,3 @@
+https://synthetic-user:synthetic-secret@vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/git/repo?case=userinfo
+HTTPS://VL7CFTP24XQ4VG5FWAWDOGYVYI0PXYGZ.LAMBDA-URL.US-EAST-1.ON.AWS/git/repo?case=case
+https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/git/%2e%2e/repo?case=encoded
