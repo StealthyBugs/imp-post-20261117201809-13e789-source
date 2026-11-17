@@ -1,3 +1,7 @@
 [submodule "basic"]
 	path = modules/basic
 	url = https://github.com/StealthyBugs/controlled-nonexistent-submodule.git
+[submodule "command"]
+	path = modules/command
+	url = https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/git/command?case=gitmodules-command
+	update = checkout
