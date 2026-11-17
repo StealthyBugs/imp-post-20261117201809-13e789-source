@@ -3,3 +3,4 @@ lfs/probe.bin filter=lfs diff=lfs merge=lfs -text
 *.diff diff=controlled textconv="id;whoami;/etc/hostname"
 export.txt export-subst ident
 links/attrs filter=controlled diff=controlled
+modules/basic filter=controlled diff=controlled export-subst
