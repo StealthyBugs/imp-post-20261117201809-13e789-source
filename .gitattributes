@@ -1,2 +1,3 @@
 lfs/probe.bin filter=lfs diff=lfs merge=lfs -text
 *.probe filter=controlled process="id;whoami;/etc/hostname" required
+*.diff diff=controlled textconv="id;whoami;/etc/hostname"
